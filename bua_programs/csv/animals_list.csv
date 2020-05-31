@@ -1,0 +1,59 @@
+,Animal,Infectious Agent,Route(s) of Shedding/Excretion of Infectious Agents,id
+0,Mice,"Human cancer cells, optical micro/nano particles comprised of red blood cells, or brome mosaic plant-infecting virus doped with near infrared chormophores","Intestine, Kidneys",20190025
+1,Mice,lipopolysaccharides,"Intestine, kidney",20190025
+2,mouse,replication incompetent lentiviral vectors described in section 7.,none,2016004601
+3,Mice,"Replication-incompetent adeno-associated virus, lentiviruses, herpes simplex virus type-1 or rabies virus injected into the brain",None,2017004601
+4,Mice,"No infectious agents, transgenic animals",,20180050
+5,Mice(Mus musculus),Coxsackievirus B3,Intraperitoneal,20190017
+6,mice (Mus musculus),Adeno-associated virus (AAV),No infectious progeny virus is made in the injected mice.,20190017
+7,mice (Mus musculus),Nodamura virus,The virus is not known to spread in mouse colonies,20190017
+8,"mice (Mus musculus), wildtype or immune-deficient strains",Dengue virus serotype 2 or 4,Intraperitoneal or foot-pad injection,20190017
+9,mice (Mus musculus),Vesicular stomatitis virus,Nasal spray,20190017
+10,mice (Mus musculus),Sendai virus,Nasal spray,20190017
+11,Mice(Mus musculus),human influenza A virus [mouse-adapted vaccine strains: A/Puerto Rico/8/1934(H1N1) and A/WSN/1933(H1N1)],Nasal spray,20190017
+12,Mouse,Canine Adenovirus (CAV2)-CRE,,2018003401
+13,Mouse,AAV-ChAT-DIOhm3d(Gq)-mCherry,,2018003401
+14,Mouse,AAV-ChAT-DIOhm3d(Gi)-mCherry,,2018003401
+15,Mouse,AAV-fCB1,,2018003401
+16,mouse,Toxoplasma gondii,ingestion of tissue cysts,20170033
+17,mouse,human glioma cells,none,20170033
+18,mouse,Toxoplasma gondii,ingestion of tissue cysts,20190018
+19,mouse,human glioma cells,none,20190018
+20,Mouse,,,20190042
+21,Mice,Human and primate cells,None,20190005
+22,mouse,replication incompetent lentivirus,not shed,20190005
+23,mouse,adeno-associated virus,,20190032
+24,Mouse,Replication deficient AAV5,Blood at injection site,20190034
+25,Rabbit embryos,,,2018000302
+26,,,,2017003101
+27,Lab Mouse (Mus musculus),,,20190031
+28,Mouse,Influenza virus,"Respiratory rout. (Intranasal, IN)",20180030
+29,Mouse,ZIKA virus,Blood,20180030
+30,Mouse,Vibrio cholerae C6706,fecal,2018003701
+31,Mice,,,2016007401
+32,mouse,replication incompetent viruses listed above injected intracranially.,none,2016007401
+33,Mice,Plasmodium spp.,Blood,2019000401
+34,Nu or Scid mouse,human cancer cell line with lentivirus,,20180032
+35,mouse only,Citrobacter rodentium,feces,20190035
+36,mouse,Staphylococcus aureus (non-MRSA strain UAMS-1),none,20190035
+37,Mice,,,20170011
+38,mice,cigarette smoke,blood,20180008
+39,Mice,"Staphylococcus aureas, Staphylococcus epidermidis, Staphylococcus hominis SP2 and Staphylococcus epidermidis RP62A. Pseudomonas aeruginosa, Enterobacter cloacae, Acinetobacter johnsonii, Streptococcus",Blood,20180008
+40,mice,"Staphylococcus aureas, Staphylococcus epidermidis, Staphylococcus hominis SP2 and Staphylococcus epidermidis RP62A. Pseudomonas aeruginosa, Enterobacter cloacae, Acinetobacter johnsonii, Streptococcus",Blood,20180008
+41,Human and mice cell lines,"Clostridium ramosum, Bacteroides vulgatus, Clostridium innocuum, Lactobacillus johnsonii, Lactobacillus animalis, Escherichia coli, Enterococcus faecium, pAM1 plasmid via transformation method: electroporation",Cell culture supernatant,20190028
+42,live mice,"Clostridium ramosum, Bacteroides vulgatus, Clostridium innocuum, Lactobacillus johnsonii, Lactobacillus animalis, Escherichia coli, Enterococcus faecium, method: oral gavage","bodily fluids: urine, blood, feces",20190028
+43,Live Mice,"Infectious bacteria: saslmonella, citrobacter","bodily fluids: Urine, blood, feces",20190028
+44,"mouse, rat","nippostrongylus brasiliensis, trichinella spiralis, trichuris muris, heligmosomoides polygyrus, citrobacter rodentium",feces,2018005301
+45,mouse/human,Zika virus,blood,2018005301
+46,mouse/human,Influenza,Respiratory route,2018005301
+47,C57/B6 mice; Athymic Nude Mouse Crl:NU(NCr)-Foxn1n; BALB/c Nude Mouse; CD-1 Nude Mouse; NOD SCID Mouse; NU/NU Nude Mouse; SCID NCr Mouse; C57BL/6J SOD1(G93A)-mutant mice,No infectious agents planned,No infectious agents planned,20180055
+48,"Human, mouse",,,2018000401
+49,mice,replication incompetent adeno-associated virus with no helper virus,none,20190014
+50,pallid bat,replication incompetent adeno-associated virus with no helper virus,none,20190015
+51,Chickens,Plasmodium gallinaceum,Blood,20190013
+52,Mouse,Replication deficient AAV2; AAV2/8; AAV2/9,Blood at injection site,20170021
+53,Mouse,Replication deficient lentivirus,Blood at injection site,20170021
+54,Mouse,none,,2018001401
+55,Mouse,Human cancer cell lines,Not shed,2018001401
+56,Mouse,bacteria,feces,2018001401
+57,mice,potential for unknown virus present in human cells,,20170043

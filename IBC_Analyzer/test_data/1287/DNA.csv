@@ -1,0 +1,13 @@
+
+"r/sDna Name","r/sDna Function","Species/Organism Derived From","Oncogenic/Biohazardous Ind"
+"A library of CRISPR/Cas9 ribonucleoprotein particles targeting all known mouse and human genes","Gene editing","Synthetic","Y"
+"A library of DNA encoding Crispr guide RNA targeting every gene, including known oncogenes and tumor suppressors","Express guide RNA to target Cas9-mediated gene deletions","synthesized","Y"
+"Cux1, all isoforms, and deletion mutants","Transcription factor","Mouse","Y"
+"CUX1, all isoforms, and deletion mutants","Transcription factor","Human","Y"
+"Every gene, including known oncogenes and tumor suppressors","Regulation of cell growth and differentiation","Human","Y"
+"Every gene, including known oncogenes and tumor suppressors","Regulation of cell growth and differentiation","Mouse","Y"
+"mCherry with CUX1 homology arms","tag endogenous Cux1 with mCherry to generate reporter mouse","synthetic","N"
+"shRNA targeting all known oncogenes and tumor suppressors (human and mouse)","Regulation of cell growth and differentiation","Recombinant","Y"
+"shRNA targeting human CUX1","Knockdown target genes","Synthesized","Y"
+"shRNA targeting murine CUX1","Knockdown target genes","Synthesized","N"
+

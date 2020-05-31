@@ -1,0 +1,275 @@
+,List of Agents,Host of Range of Agent,id
+0,human blood monocytes,humans,20190025
+1,human spleen macrophages,human,20190025
+2,human hepatocytes,human,20190025
+3,human embryonic kidney cells,human,20190025
+4,Normal and cancerous human bronchial epithelial cells,human,20190025
+5,Normal and cancerous human cervical epithelial cells,human,20190025
+6,brome mosaic virus,barley leaves,20190025
+7,ovarian cancer cells,human,20190025
+8,erythrocytes,mice,20190025
+9,eryhtrocytes,bovine,20190025
+10,breast cancer cells,human,20190025
+11,endothelial cells,human,20190025
+12,endothelial cells,human,20190025
+13,erythrocytes,human,20190025
+14,spleen macrophages,mice,20190025
+15,Kupffer cells,mice,20190025
+16,Unidentified - whole soils,US Soils,20180022
+17,Unidentified - whole live slugs,Riverside County,20180022
+18,E. coli Samp,non-infectious strain,20150069
+19,MS2 bacteriophage,E. coli,20150069
+20,Transposable elements,"Insects, human cells, yeast",2018003501
+21,Dengue virus,"Humans, mosquitoes",2018003501
+22,E coli B strain derivatives,human,20180011
+23,E coli K-12 derivatives,human,20180011
+24,entropathogenic E.coli E2348/69,human,20180011
+25,Fusarium oxysporum,"Humans, mice",2017004401
+26,microbial rRNA genes,,20190026
+27,Erysipelatoclostridium ramosum. Bacteroides vulgatus. Erysipelatoclostridium innocuum. Lactobacillus johnsonii Lactobacillus animalis. Escherichia coli.,,2017004801
+28,lentiviral vectors,,2016004601
+29,,rodent,2016004601
+30,E. coli,,20190012
+31,E. coli k12,human,20190039
+32,"HeLa cells, THP-1, and culture media",,20190022
+33,Influenza H1N1 (for storage only),Human,20190022
+34,"influenza A (H3N2) (for storage only), adenovirus type 9 (for storage only), rhinovirus type 3 (for storage only), coxsakievirus type A-3 (for storage only)",Human,20190022
+35,Vibrio Cholerae,"Human, water birds, shellfish, fish, and herbivores.",20190022
+36,Escherichia coli DH10B,"Human, birds, and amphibians",20190022
+37,Escherichia coli (Migula) Castellani and Chlamers,"Human, birds, and amphibians",20190022
+38,PC12 derived from pheochromocytoma of rat adrenal medulla,,20190022
+39,"Adeno-associated virus, replication-incompetent",broad range of hosts,2017004601
+40,"Lentiviruses, replication-incompetent",broad range of hosts,2017004601
+41,"Herpes simplex virus type-1, replication-incompetent",broad range of hosts,2017004601
+42,"Rabies virus, glycoprotein-deleted",broad range of hosts,2017004601
+43,"Canine adenovirus, replication-incompetent",broad range of hosts,2017004601
+44,,,20180050
+45,Streptococcus pneumoniae,Human/primate,20180023
+46,Listeria monocytogenes,Human/primate,20180023
+47,Escherichia coli,Human/primate,20180023
+48,Salmonella typhimurium,Human/primate,20180023
+49,Mycobacterium marinum,Human/primate,20180023
+50,Staphylococcus aureus,Human/primate,20180023
+51,Heligmosomoides polygyrus,Mouse,20180023
+52,Nippostrongylus brasiliensis,Rats and mice (rodents),20180023
+53,Strongyloides ratti,Rats,20180023
+54,Nodamura virus,mouse; human/primate/insect cell lines,20190017
+55,Flock house virus,Insects; Nematode Caenorhabditis elegans,20190017
+56,Murine leukemia virus-based plasmid vectors,Cultured mammalian cells,20190017
+57,Adeno-associated virus-based plasmid vectors,Cultured mammalian cells and mice,20190017
+58,human influenza A virus (regular H1N1 vaccine strains),Human; mouse,20190017
+59,Dengue virus serotype 2 and 4,Immune-deficient mouse strains such as AG129; human,20190017
+60,Vesicular stomatitis virus,"Horse, cattle, pigs, and wild rodents",20190017
+61,Sendai virus,"Hamsters, rats, guinea pigs and pigs",20190017
+62,Coxsackievirus B3 (CVB3): Nancy and H3 isolates,Huamn/mice,20190017
+63,"ZIKA virus, strain H/PF/2013","Human, mouse",20190017
+64,Plasma,Human,2018003401
+65,Canine Adenovirus (CAV2)-CRE retrograde virus,Mouse,2018003401
+66,AAV-ChAT-DIOhm3d(Gq)-mCherry,Mouse,2018003401
+67,AAV-ChAT-DIOhm3d(Gi)-mCherry,Mouse,2018003401
+68,fCB1R-AAV,Mouse,2018003401
+69,"Various toxic, mutagenic and carcinogenic agents",mammals,20170015
+70,E. coli,Human/mammal,20170015
+71,Escherichia coli,Human,20190040
+72,E. coli (DE3 BL21 and DH5-alpha),Human/primate,20170007
+73,Saccharomyces cerevisiase,human/primate,20190011
+74,Yarrowia lipolytica,human/primate,20190011
+75,Kluyveromyces marxianus,human/primate,20190011
+76,Wickerhamomyces anomalus,human primate,20190011
+77,E. coli K12,human/primate,20190011
+78,Pseudomonas chlororaphis,human/primate,20190011
+79,Shewanella onediensis (storage only),human/primate,20190011
+80,Toxoplasma gondii,mammals,20170033
+81,Toxoplasma gondii,mammals,20190018
+82,Cell lines,,20190042
+83,Transgenic animals,,20190042
+84,E.coli (Bl21),,20190042
+85,E.coli (Dh5alpha),,20190042
+86,E.coli (Stbl2),,20190042
+87,"E. coli (PPY), E.coli (DH5alpha), E.coli (Top10)",,20190042
+88,Lentivirus,mammalian cells,20190042
+89,Adeno-associated virus (AAV),mammalian cells,20190042
+90,human serum,human,20170027
+91,Human embryonic stem cell lines,,20190005
+92,Human induced pluripotent stem cells,,20190005
+93,Human bone marrow mesenchymal stem cells,,20190005
+94,Rhesus embryonic stem cells,Human/Primate,20190005
+95,Callithrix embryonic stem cells,Human/Primate,20190005
+96,lentivirus,"human, primate, mouse",20190005
+97,E. coli DH5alpha,,20190005
+98,mouse mesenchymal stem cells,mouse,20190005
+99,plasmids,,20190005
+100,E. coli (DH5a),human,2017002301
+101,Hela,Human,20170001
+102,adeno-associated virus,human,20190032
+103,"human blood, human cells",,2017004102
+104,Bacillus thuringiensis,"Restricted to insects, primarily caterpillars and mosquitoes",20170020
+105,Various ascoviruses,lepidopteran larvae,20170020
+106,Nuclear polyhderosis viruses,Lepidopteran larvae,20170020
+107,E. coli,Human/primate,20170020
+108,Coelomomyces fungi,Mosquitoes and copepods,20170020
+109,Replication deficient Adeno-associated virus,"Mouse, Human",20190034
+110,Recombinant plasmid DNA,"Mouse, Human",20190034
+111,E. coli,Human,2017002501
+112,Lentivirus (2nd and 3rd Generation),Human (primates) and Mouse (VSVgp),2018000302
+113,human Neural crest cells derived from human iPSC or from hESC,"Chick embryos from early balstula (un-incubated) to late neurula (younger than 6 days of development). NOTE: We would like to inject hNCC derived from hESC or iPSC into chick embryos. According to NIH guidelines, the chick embryo is not classified as a vertebrate until it hatches(after 21 days of incubation/development). Our experiments only consider short term development from 12 hours to 6 days, after injecting into embryos between 0 and 6 days of development. This approach is clearly short of the 21 days required for a chick to hatch. We do not intend to push the development of these chimeras to term, and under no circumstance do I envision chimeras reaching 10 days of development. The grafts will be implanted into prospective neural crest territory (neural plate border, neural folds, and branchial arches, or craniofacial structures) of chick embryos. We hope to be able to follow the contribution of injected cells using a variety of markers. The number of cells to be used will be modified according to first hand experience. I would like to state that many papers using similar strategies to derive human neural crest cells have implanted them into chick embryos. These studies used the same cells we are using from the Wi Cell Research Institute. Please find below some examples of articles reporting results with these strategies: Jiang, X., et al., Isolation and characterization of neural crest stem cells derived from in vitro-differentiated human embryonic stem cells. Stem Cells Dev, 2009. 18(7): p. 1059-70. Bajpai, R., et al., CHD7 cooperates with PBAF to control multipotent neural crest formation. Nature, 2010. 463(7283): p. 958-62. Curchoe, C.L., et al., Early acquisition of neural crest competence during hESCs neuralization. PLoS One, 2010. 5(11): p. e13890. Valensi-Kurtz, M., Lefler, S., Cohen, M.A., Aharonowiz, M., Cohen-Kupiec, R., Sheinin, A., Ashery, U., Reubinoff, B., and Weil, M., Enriched population of PNS neurons derived from human embryonic stem cells as a platform for studying peripheral neuropathies. PLoS One, 2010. 5(2): p. e9290. Menendez, L., et al., Wnt signaling and a Smad pathway blockade direct the differentiation of human pluripotent stem cells to multipotent neural crest cells. Proc Natl Acad Sci U S A, 2011. 108(48): p. 19240-5.",2018000302
+114,Escherichia coli,Escherichia coli,2017002401
+115,Bacteriophage,Escherichia coli,2017002401
+116,Modified vaccinia ankara (MVA),human,2017002401
+117,Human Cell Culture,Human,20180038
+118,"E. coli strains DH5alpha, DH10beta",E. coli,20180038
+119,"primary cell cultures or immortalized cell lines derived from human, mouse, and monkey","human, mouse, and monkey",2017003101
+120,Blood,Bovine,2017003101
+121,Blood,"Human, Mouse",2017003101
+122,"Bacillus thuringinesis, Bacillus megaterium, E.coli, Paraclostridium bifermentans, Saccharomyces cerevisae, and Botulinum neurotoxin A and B",Human,20180048
+123,Orsay virus,C. elegans,20170034
+124,M13 phage,ER2738 e coli,20190003
+125,ER2738 e coli,,20190003
+126,XL1-Blue E. coli,,20190003
+127,Cell lines,Human,20190031
+128,"influenza A virus, H1, H3, influenza B virus","human, mouse, guinea pig",20180030
+129,ZIKA virus,"human, mouse",20180030
+130,"E. coli, DH5alpha",,20180030
+131,Lentiviral like particle-no replicatable,,20180030
+132,Vibrio cholerae,Human,2018003701
+133,Human gut microbiomes,,2018003701
+134,potential pathogens from human lenses,,20190029
+135,E. coli strains: DH5alpha; B21,,2016007401
+136,"Herpesvirus, disarmed",broad range of hosts,2016007401
+137,"Adeno-associated virus, disarmed",broad range of hosts,2016007401
+138,"Lentivirus, disarmed",broad range of host,2016007401
+139,Plasmodium yoelii,Rodents,2019000401
+140,Plasmodium berghei,Rodents,2019000401
+141,Plasmodium chabaudi,Rodents,2019000401
+142,Plasmodium falciparum,Human,2019000401
+143,E. Coli,Human,2019000401
+144,Plasmodium Vivax,Human,2019000401
+145,Plasmodium knowlesi,Primate,2019000401
+146,Babesia duncani (only extracted DNA and RNA),Human,2019000401
+147,Babesia microti (only extracted DNA and RNA),Human,2019000401
+148,Toxoplasma gondii (only extracted DNA and RNA),Human,2019000401
+149,,"Human HEK293 cells, Chinese hamster ovary cell line, NIH3T3 cell line",20180040
+150,"E. coli Top10, Bl21, BL21(DE3), bacculovirus.",,20180040
+151,"Influenza virus A, B, and drug resistance strains",human lung MDCK cells,20180040
+152,"E. coli DH5alpha, TOP-10",human,20180028
+153,baculovirus,insect cell culture,20180032
+154,plasmid,human culture cell lines,20180032
+155,tumor sample,human,20180032
+156,human cell lines - no expected pathogens,"human, if any unexpected pathogen",20170017
+157,sheep tissues (e.g. knee joint) - 70% Q-fever positive,"human, sheep, cow, large farm animals",20170017
+158,Q-fever bacteria,"sheep, human",20170017
+159,E. coli,human,20170017
+160,human adult stem cells - no expected pathogens,"human, if any unexpected pathogen",20170017
+161,cells isolated from animals - no expected pathogens,"rat, mice, rabbit, sheep, pig, dog, large farm animals",20170017
+162,"bacteria (Enterobacter aerogenes ATCC 35028,Bacillus subtilis ATCC 7060, Serratia marcescens ATCC 8195, S. Epidermidis), Pseduomonas aeruginosa (ATCC 29260), Staphylococcus aureus(ATCC 25923), Methic",human,20170017
+163,"Yeasts (Candida albican, Candida glabrata, and their drug-resistant strains)",Human,20170017
+164,MRSA,Human,20170017
+165,Salmonella typhimurium engineered to express fluorescent proteins,"human, mouse",20190035
+166,Yersinia enterocolitica engineered to express fluorescent proteins,"human, mouse",20190035
+167,Bacillus subtilis engineered to express fluorescent proteins,(inocuous soil bacteria),20190035
+168,Streptococcus pneuomoniae,"human, mouse",20190035
+169,Listeria monocytogenes engineered to express fluorescent protein,"human, mouse",20190035
+170,"Vibrio cholera mutant strains; C6706 lacZ::gap, C6706 hly- rtx- ctx- lacZ::gfp","human, mouse",20190035
+171,Staphylococcus aureus UAMS-1 (non-MRSA),"human, mouse",20190035
+172,Staphylococcus aureus USA300 (MRSA strain) engineered to express EGFP,"human, mouse",20190035
+173,Citrobacter rodentium,mouse only,20190035
+174,Escherichia coli,Human/primate,20170026
+175,Steinernema carpocapsae,Insects,20170026
+176,Pseudomonas aeruginosa,"Plants and animals, including humans",20170026
+177,Xenorhabdus nematophilum,nematodes and some insect larvae,20170026
+178,lentivirus (replication deficient),human & rodents,20170011
+179,retrovirus (replication-deficient),human & rodents,20170011
+180,Adenovirus (replication-deficient),Human/primate,20170011
+181,"Human Cell lines: HEK293, HeLa, MCF7, PC3, U2OS, SAOS2,HL60, HCT116, DLD1, HEPG2, IMR90, WI38, HK2, Caki-1, ACHN",Human,20170011
+182,Human Embryonic Stem cell line H1 (W01),Human,20170011
+183,Rat cell line: Rat1a fibroblast,Rodent,20170011
+184,"Mouse ES cell lines: D3, KH2",Rodent,20170011
+185,Monkey COS-7 cell line,Primate,20170011
+186,NIH3T3 cell line,Mouse,20180008
+187,THP-1 cell line,Human,20180008
+188,Du145 cell line,human,20180008
+189,PC3 cell line,human,20180008
+190,AML12 cell line,mouse,20180008
+191,cancer cell lines,human,20180008
+192,"These agents are obtained from mouse wounds: Pseudomonas aeruginosa, Enterobacter cloacae, Acinetobacter johnsonii, Streptococcus thermophiles, Propionibacterium acnes, Staphylococcus saprophyticus, Enterobacter asburiae, Aerococcus urinaeequi, Staphylococcus aureos, Staphylococcus epidermidis S. hominis SP2, Staphylococcus epidermidis RP62A. None of these bacterial are MERSA",human and rodent,20180008
+193,Trypanosoma brucei,Cattle (not humans),20180039
+194,Leishmania tarentolae,Parasites of lizards (geckos),20180039
+195,Lentivirus,Cells/mice,20190028
+196,"Intestinal commensal bacteria including but not limited to Clostridium ramosum, Bacteroides vulgatus, Clostridium innocuum, Lactobacillus johnsonii, Lactobacillus animalis, Escherichia coli, Enterococcus faecium",Mammals,20190028
+197,Defibrinated Sheep Blood,Sheep,20190028
+198,"Intestinal infectious bacteria including: salmonella, citrobacter",Mammals,20190028
+199,Deformed Wing Virus,Bees,20170047
+200,Israeli Acute Paralysis Virus,Bees,20170047
+201,Ascosphaera aggregata,Bees,20170047
+202,Melissococcus plutonius,Bees,20170047
+203,Paenibacillus larvae,Bees,20170047
+204,Nosema cerane,Bees,20170047
+205,Apicystis bombi,Bees,20170047
+206,Crithidia spp.,Bees,20170047
+207,Aspergillus niger,Bees/flowers,20170047
+208,Aspergillus sp.,Bees/flowers,20170047
+209,Human mesenchymal stem cell,,20170022
+210,Human embryonic stem cell line (WA09),,20170022
+211,Human induced pluripotent stem cell (Riv9),,20170022
+212,E. coli,Human/primate,20170019
+213,Nippostrongylus brasiliensis,"mouse,rat",2018005301
+214,Citrobacter rodentium,"mouse, rat",2018005301
+215,Trichinella spiralis,"mouse, rat, human",2018005301
+216,Trichuris muris,"mouse, rat",2018005301
+217,Toxoplasma gondii,"mouse, rat, human",2018005301
+218,Heligmosomoides polygyrus,"mouse, rat",2018005301
+219,"Influenza A virus, H1, H3, influenza B virus","human, mouse",2018005301
+220,ZIKA virus strain H/PF/2013,"human, mouse",2018005301
+221,"E.coli (for sepsis model: ATCC 25922, https://www.atcc.org/~/ps/25922.ashx ; for cloning eg. TOP10 competent cells)","mouse, rat, human",2018005301
+222,E. coli,non pathogenic,20180055
+223,lentivirus,,20180055
+224,E. coli,,20170042
+225,Adeno-associated virus,mammals,20190014
+226,Adeno-associated virus,mammals,20190015
+227,Plasmodium gallinaceum,Chicks,20190013
+228,Plasmodium gallinaceum,Chicks,20190013
+229,Replication deficient Adeno-associated virus,"Mouse, Human",20170021
+230,Replication deficient lentivirus,"Mouse, human",20170021
+231,Recombinant plasmid DNA,"Mouse, Human",20170021
+232,"E. coli (non-pathogenic strains: Dh5a, Stbl2)",Vertebrate animals,20170021
+233,Human cell lines (Hek293T),Human,20170021
+234,"HUVECs, EA926",Human endothelial cells,20170013
+235,BAECs,Bovine endothelial cells,20170013
+236,Blood vessels,Bovine/porcine,20170013
+237,HepG2,Human Liver,20170013
+238,MIA PaCa-2,Human Pancreatic,20170013
+239,MB231,Human mammary gland,20170013
+240,hTERT-HPNE,Normal human pancreatic cells,20170013
+241,H6c7,Normal human pancreatic cells,20170013
+242,T98G,Human glioblastoma,20170013
+243,U87,Human glioblastoma,20170013
+244,LN229,Human glioblastoma,20170013
+245,Cell line,Human,20190036
+246,Adenovirus,Human/primate,2018001401
+247,lentivirus,mammalian cells,2018001401
+248,Escherichia coli K12,Human,2018001401
+249,E. Coli strains,Human,20170029
+250,human embryonic stem cells,human,20180012
+251,Lentivirus,mammalian cells,20180012
+252,Human embryonic kidney cells (HEK293),Human,2018002501
+253,Human hepatocellular carcinoma cells (HepG2),Human,2018002501
+254,Ecoli One Shot Top 10,"mammals, birds, reptiles, soil, horticulture",20180007
+255,E. coli (ATCC 4157),"mammals, birds, reptiles, soil, horticulture",20180007
+256,E. coli (ATCC 87799),"mammals, birds, reptiles, soil, horticulture",20180007
+257,E. coli (ATCC 87801),"mammals, birds, reptiles, soil, horticulture",20180007
+258,E. coli (K-12 D21),"mammals, birds, reptiles, soil, horticulture",20180007
+259,E. coli (ATCC 37106),"mammals, birds, reptiles, soil, horticulture",20180007
+260,Bacillus subtillis (ATCC pC194),"human, opportunistic infection in immune compromised humans",20180007
+261,B. megatherium,"soil, horticulture",20180007
+262,B. sphaericus,insects,20180007
+263,B. thruingiensis,"soil, horticulture, insects",20180007
+264,B. atropaeus,"soil, horticulture",20180007
+265,Geobacillus stearothermophilus,"soil, horticulture",20180007
+266,Haloarcula quadrata (ATCC 700850),unknown -- found in high saline environments,20180007
+267,S. epidermidis,A part of the human fluora,20180007
+268,Vibrio natriegens,It is a marine bacterium.,20180007
+269,commercial adenoviral vector,mammalian,20170043
+270,mammalian expression vector,mammalian,20170043
+271,Commercial lentiviral vector,mammalian,20170043
+272,Human cell lines and tissues,,20170014
+273,"E. coli, BL21-DE3",,20170014

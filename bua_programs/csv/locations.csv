@@ -1,0 +1,535 @@
+,Building,Room #,"List any containment facilities or equipment (biosafety cabinets, etc.) and their last certification dates.",CertificationDate,id
+0,Psycology Vivarium,BSL2 Housing and BSL Proc Room,,,20190025
+1,Keen Hall,1015,,,20190025
+2,Materials Science and Engineering (MSE),268,,4/15/2019,20190025
+3,Boyce Hall,3441,2 biosafety cabinets,1/31/2016,20180022
+4,Boyce Hall,3413,,,20180022
+5,Boyce Hall,3437,Fume Hood,1/31/2016,20180022
+6,Atmospheric Processes Laboratory; CE-CERT,1086,,,20150069
+7,AgOps Greenhouse,16-56,,,2018003501
+8,Genomics,"2237, 2231/A, 2233/A, 2235","Biosafety cabinets, chemical hoods, ACL2 insectary",8/3/2018,2018003501
+9,IQF,"226, 234, 236, 238","Secondary screens placed on doors of 234, 236 and 238.",8/8/2019,2018003501
+10,Biological Sciences Building,2116,,10/5/2006,20180029
+11,Genomics,"4126,4112A,4112B,4110,4108,410",4108 (Laminar flow hood),9/18/2015,20170016
+12,Greenhouses 2 and 17,"GH2, GH17B",,,20170016
+13,Boyce Hall,5413,,,20180011
+14,Boyce Hall,5437,,,20180011
+15,Boyce Hall,5447,,,20180011
+16,Boyce Hall,5457,,,20180011
+17,Boyce Hall,5461,,,20180011
+18,Genomics,1211,,,2017004401
+19,Genomics,1211A,,,2017004401
+20,Genomics,1215,,,2017004401
+21,Genomics,1219B,,,2017004401
+22,Genomics,1219A,,,2017004401
+23,Genomics,1219,,,2017004401
+24,Genomics,1213,Class IIA/B3 Biological Safety Cabinet,1/15/2015,2017004401
+25,MRB,4204G,Biosafety Cabinet,5/17/2019,20190026
+26,MRB,4212A,Biosafety Cabinet,5/17/2019,20190026
+27,MRB,4208,,,20190026
+28,MRB,4208A,,,20190026
+29,MRB,4204A,,,20190026
+30,MRB,4205E,,,20190026
+31,MRB,4208D,,,20190026
+32,MRB,4204F,,,20190026
+33,MRB,4213A,,,20190026
+34,MRB,4208B,,,20190026
+35,MRB,4212D,,,20190026
+36,MRB,4204C,,,20190026
+37,MRB,4212B,,,20190026
+38,MRB,4204D,,,20190026
+39,MRB,4212E,,,20190026
+40,MRB,4216,,,20190026
+41,MRB,4214,,,20190026
+42,MRB,4205A,,,20190026
+43,MRB,4218,,,20190026
+44,MRB,4208E,,,20190026
+45,MRB,4208C,,,20190026
+46,MRB,4212C,,,20190026
+47,MRB,4204E,,,20190026
+48,MRB,4205D,,,20190026
+49,MRB,4212,,,20190026
+50,MRB,4204,,,20190026
+51,MRB,CR4200B,,,20190026
+52,MRB,4229,,,20190026
+53,Boyce Hall,3427,BSC,3/7/2017,2017004801
+54,Boyce Hall,3431,BSC,3/7/2017,2017004801
+55,Boyce Hall,3413,,,2017004801
+56,Boyce Hall,3413A,,,2017004801
+57,SOM-RB,310B,,,2017004801
+58,MRB,4213-B,,,2017004801
+59,MRB,4205-D,,,2017004801
+60,MRB,4205-A,,,2017004801
+61,MRB,4213,,,2017004801
+62,MRB,4205,,,2017004801
+63,MRB,4208-B,BSC,3/13/2018,2017004801
+64,MRB,4208-D,BSC,3/13/2018,2017004801
+65,MRB,4212-C,BSC,3/13/2018,2017004801
+66,MRB,4212-A,BSC,3/13/2018,2017004801
+67,MRB,4204-F,BSC,3/13/2018,2017004801
+68,MRB,4204-G,BSC,3/13/2018,2017004801
+69,MRB,4204-A,BSC,3/13/2018,2017004801
+70,MRB,4213-A,BSC,3/13/2018,2017004801
+71,MRB,4205-E,BSC,3/13/2018,2017004801
+72,MRB,4208-A,,,2017004801
+73,MRB,4208,,,2017004801
+74,MRB,CR4200-B,,,2017004801
+75,MRB,4208-E,,,2017004801
+76,MRB,4208-C,,,2017004801
+77,MRB,4212,,,2017004801
+78,MRB,4216,,,2017004801
+79,MRB,4214,,,2017004801
+80,MRB,4212-D,,,2017004801
+81,MRB,4218,,,2017004801
+82,MRB,4204-E,,,2017004801
+83,MRB,4204,,,2017004801
+84,MRB,4212-B,,,2017004801
+85,MRB,4204-D,,,2017004801
+86,MRB,4204-C,,,2017004801
+87,MRB,CR4200,,,2017004801
+88,Boyce East Vivarium,ventilated rack room,,,2016004601
+89,Webber,1317,3 biosafety cabinets,11/20/2009,2016004601
+90,Pyschology,V3,,,2016004601
+91,Webber Hall,2101B,3 BSC cabinets,1/30/2017,2016004601
+92,MRB,1204A,2 BSC cabinets - will be recertified after move into MRB,1/30/2018,2016004601
+93,MRB,1208A,,,2016004601
+94,MRB,2 open space bays next to 120,,,2016004601
+95,Boyce Hall,"4412, 4412A, 4400A, 4414",,,20190012
+96,Genomics,4229A,,,20190039
+97,Genomics,4229B,,,20190039
+98,Batchelor Hall,1107,,,20190039
+99,Genomics,4235,,,20190039
+100,Genomics,4233,,,20190039
+101,Genomics,4231,,,20190039
+102,Genomics,4229,,,20190039
+103,Batchelor Hall,2211C,,,20190039
+104,genomics,4237,one laminar flow hood,7/29/2016,20190039
+105,CAF,1,,,20190039
+106,Genomics,4227,one fume hood,3/30/2016,20190039
+107,Chemcial Sci,"313, 317, 319, 321","Biosafety cabinet, CO2 incubator, incubator, autoclave, -80 freezer, refrigerator, cryo cell storage Dewar",8/1/2015,20190022
+108,New Psychology Building,1406,"Biosafety Cabinet Class II, Type 2A (re-certified annually)",1/1/2015,2017004601
+109,Biological Sciences Building,1206,Fume hood,4/17/2015,2017004601
+110,Biological Sciences Building,1215,Fume hood,2/27/2015,2017004601
+111,Biological Sciences Building,"1205, 1205A, 1206, 1207,1215","Animal housing, surgery, behavioral and physiological testing (AUP# A-20140033)",2/10/2015,2017004601
+112,MRB1,3210,Fume hood,1/1/2019,2017004601
+113,MRB1,3216,Fume hood,1/1/2019,2017004601
+114,MRB1,"3210, 3208-D, 3216, 3214","Animal housing, surgery, behavioral and physiological testing",1/1/2019,2017004601
+115,Batchelor Hall,"4159, 4163, 4167",,,20180015
+116,School of Medicine Research Building,310-1; 310A,,,20180050
+117,School of Medicine Research Building,318,Biosafety cabinet,4/5/2018,20180050
+118,IIGB,3rd Floor lab,,,20190041
+119,Genomics,3126,,,20190041
+120,Genomics,3120,,,20190041
+121,Genomics,G-3106,,,20190041
+122,Genomics,G-3108,,,20190041
+123,Genomics,3110,,,20190041
+124,Batchelor Hall,2211B,,,20190041
+125,Genomics,3112A and B,,,20190041
+126,Genomics,3120A and B,,,20190041
+127,Greenhouse,17C & E,,,20190041
+128,Genomics,2207A,,,20180046
+129,Genomics,2207B,,,20180046
+130,Genomics,2237,,,20180046
+131,Genomics,2227,,,20180046
+132,Genomics,2225,,,20180046
+133,Genomics,2223,,,20180046
+134,Genomics,2223A,,,20180046
+135,Genomics,2215,,,20180046
+136,Genomics,2210,,,20180046
+137,Genomics,2210B,,,20180046
+138,Insectary & Quarantine,153,,,20180046
+139,Insectary & Quarantine,154,,,20180046
+140,Insectary & Quarantine,156,,,20180046
+141,Boyce Hall,"2444, 2446, 2454, 2470, 2478",,,20180013
+142,Genomics,2211,"Insectary, CO2 incubator, incubator",6/13/2018,20180023
+143,Genomics,2211A,"Incubator, insectary",6/13/2018,20180023
+144,Genomics,2237,Minus 80 freezer,6/13/2018,20180023
+145,Genomics,2211B,Biosafety cabinet,6/20/2018,20180023
+146,Greenhouse 14,A and B,,,20190017
+147,Genomics,"3201, 3203, 3205, 3207B; 3239",Two Forma class II A/B3 Biological Safety Cabinets,9/17/2018,20190017
+148,School of Medicine Research Building (SOMRB),230D,Steril Gard III Advance Class II Biological Safety Cabinet,2/12/2015,2018003401
+149,SOMRB,210A,,,2018003401
+150,Biological Sciences Building,2206,,,20170015
+151,Biological Sciences Building,2205,Biological Safety cabinet,9/16/2016,20170015
+152,Biological Sciences Building,2205,Biological Safety Cabinet,6/16/2016,20170015
+153,University Laboratory Building,108,,,20190040
+154,Greenhouse 17B,17B,,,20190040
+155,University Laboratory Building,202,Fume Hood,8/31/2016,20190040
+156,University Laboratory Building,102,fume hood,5/16/2016,20190040
+157,University Laboratory Building,103,,,20190040
+158,University Laboratory Building,109,,,20190040
+159,Campbell Hall,202,Fume Hood,8/16/2018,20190040
+160,Bourns Hall,B312,,,20170007
+161,Bourns Hall,B316,fumehoods,3/18/2016,20170007
+162,Bourns Hall,B312A,1x Biosafety cabinet (posted not certified by UCR EHS),9/1/2010,20170007
+163,Bourns,B262,3 x Fumehood,8/29/2017,20190011
+164,Webber,1252,,,20170033
+165,Webber,1254,,,20170033
+166,Psychology V3,BSL2 Housing,,,20170033
+167,Psychology V3,BSL2 Procedure Room,,,20170033
+168,Psychology V3,1416 tissue imaging facility,,,20170033
+169,Webber,1248,,,20170033
+170,Webber,1235,2 laminar flow hoods,12/7/2017,20170033
+171,Webber,1252,,,20190018
+172,Webber,1254,,,20190018
+173,Psychology V3,BSL2 Housing,,,20190018
+174,Psychology V3,BSL2 Procedure Room,,,20190018
+175,Psychology V3,1416 tissue imaging facility,,,20190018
+176,Webber,1248,,,20190018
+177,Webber,1235,2 laminar flow hoods,12/7/2017,20190018
+178,MRB1,3204A Tissue culture,2 laminar flow hoods to be revalidated upon moving,12/7/2017,20190018
+179,MRB1,3204C microscopy,,,20190018
+180,MRB1,3204D molecular biology,fume hood and snorkel,4/29/2019,20190018
+181,MRB1,3205E flow cytometry (Nair),,,20190018
+182,SOM Research Building,230,,,20190042
+183,SOMRB,232,Biosafety cabinet,4/4/2017,20190042
+184,Chemical Science,221,"Biosafety cabinet, incubator",10/26/2017,20170027
+185,chemical science,223,liquid nitrogen tank,10/19/2017,20170027
+186,Chemical Science,313,-80 freezer,10/19/2017,20170027
+187,Stem cell core facility,xx,,,20190005
+188,Biological Sciences Building,1223,biosafety cabinet,1/14/2016,20190005
+189,Biological Sciences Building,"1215, 1216, 1220, 1225",,,20190005
+190,Genomics,"2237, 2201, 2203",,,2017002301
+191,Genomics,2205,,,2017002301
+192,Genomics,2215,,,2017002301
+193,Genomics,2209,biosafety cabinet,8/3/2018,2017002301
+194,MSE,255,,,20170001
+195,Bourns,B360B,Biosafety Cabinet,2/11/2014,20170001
+196,Batchelor Hall,3158,Bishazards bags and autoclave,10/8/2003,20180051
+197,Genomics,4237,Biohazard bags and autoclave,10/31/2014,20180051
+198,Genomics,"4207A, 4209, 4211, 4213, 4213A",,10/30/2018,20180051
+199,Biological Science Building,"1226, 1202",biosafety cabinets,7/29/2016,20190032
+200,Biological Science Building,3229,,7/29/2016,20190032
+201,MRB,2205A,Biosafety cabinet,5/7/2019,2017004102
+202,Genomics Building,3237,,,20180020
+203,"CNAS Arabidopsis Growth Facility,",CAF-4,,,20180020
+204,Genomics Building,3231,,,20180020
+205,Genomics Building,3221,,,20180020
+206,Genomics Building,3219A,,,20180020
+207,Genomics,3229A,type IIA biosafety cabinet,2/12/2016,20180020
+208,Genomics,3235,fume hood,8/15/2017,20180020
+209,Boyce hall,"2466, 2482",,,20180017
+210,Entomology,346,Nuaire Biosafety Cabinet,4/4/2017,20170020
+211,Chapman Hall,6,Baker Sterilegard Laminar Flow Hood,4/4/2017,20170020
+212,Biological Sciences,1210,"Fume hood, sink",8/6/2018,20190034
+213,Biological Sciences,1217,Biosafety cabinet S/N 140897040,3/6/2019,20190034
+214,Biological Sciences,1215,fume hood  not used (out of service 8/6/18),8/6/2018,20190034
+215,Green House 10,Bench B,,,20160080
+216,Green House 9,Water Baths,,,20160080
+217,Boyce Hall,2489,1 Biosafety cabinet,2/17/2017,20160080
+218,Boyce Hall,"3432, 3446",,,2017002501
+219,Boyce Hall,3436,,,2017002501
+220,Boyce Hall,3436A,,,2017002501
+221,Boyce,3460,,,2017002501
+222,Stem Cell Core Facility (Keen Hall),(next to 501A),Core's Biosafety cabinets,6/29/2018,2018000302
+223,SOM RB,"230D, 236",Biosafety Cabinets to be purchased,4/4/2018,2018000302
+224,SOM RB,"230, 232, 230E",,,2018000302
+225,SOM RB,242,,,2018000302
+226,Bourns Hall,B252,"fridges, incubators, shakers, centrifuges, microplate reader, spectrometer, thermocycler",7/18/2017,2017002401
+227,Chemical Sciences,308,,,20180038
+228,Chemical Sciences,302,Biosafety Cabinet,8/21/2018,20180038
+229,Chemical Sciences,304,,,20180038
+230,"Stem Cell Core Facility, Next to 501A Keen Hall",A1018,"BSL2 culture hood, centrifuge, waterbath, TC incubators",6/8/2017,2017003101
+231,Spieth Hall and Boyce Hall,vivaria,,,2017003101
+232,MSE,279,"BSL2 culture hood, centrifuge, waterbath, TC incubators",6/5/2017,2017003101
+233,MSE,273,"Chemical fume hood, microcentrifuge, waterbath, -20C freezer, 4C refrigerator",7/13/2017,2017003101
+234,Biological Sciences,3205C,"Isolated Mosquito Culture Room and Isolated Insect Chamber,",3/13/2018,20180048
+235,Biological Sciences,3205B,Mosquito egg storage and insect incubator,3/13/2018,20180048
+236,Biological Sciences,3221,Microscope room used for egg injections,3/13/2018,20180048
+237,Biological Sciences,"3220, 3226, 3230","Labs used for E. coli, Paraclostridiun bifermentans, Bacillus thuringiensis",3/13/2018,20180048
+238,Biological Sciences,3227,Cell culture facility and storage of Botulinum toxin B catalytic domain,3/13/2018,20180048
+239,Genomics,fourth floor,,,20190033
+240,genomics,4223,,,20190033
+241,genomics,"4221, 4215-4219A",,,20190033
+242,Batchelor Hall,2211B,,,20190033
+243,Biological Sciences Building,1227,,,20170034
+244,Biological Sciences Building,1225,,,20170034
+245,Biological Sciences Building,1219,,,20170034
+246,Biological Sciences Building,1203,,,20170034
+247,BSB,2219,"Biosafety cabinets, CO2 incubator for cell culture",3/1/2017,20170034
+248,Bourns,B342C,,,20190003
+249,Biological Sciences,3220,,,20190031
+250,Biological Sciences,3210,,,20190031
+251,Biological Sciences,3219,Biosafety cabinets,6/15/2019,20190031
+252,Psycology Vivarium,"1406, 1408",1 Bio safety cabinet in each room,3/16/2015,20180030
+253,Boyce Hall,4478,"two bio safety cabinets (Cellgrad ES Class II, Type A2)",9/29/2017,20180030
+254,Genomics Building,3203,1 Biosafety cabinet,1/16/2017,20180030
+255,Vivarium,TBA,,,2018003701
+256,Webber Hall,3206,,,2018003701
+257,Webber Hall,3206A,,,2018003701
+258,Webber Hall,3220,Biosafety cabinet,11/25/2015,2018003701
+259,MRB1,4208,,,2018003701
+260,MRB1,4212C,,,2018003701
+261,MRB1,4214,biosafety cabinet to be purchased/moved,2/26/2019,2018003701
+262,MRB1,4216,biosafety cabinet to be purchased/moved,2/26/2019,2018003701
+263,MRB1,4213A,,,2018003701
+264,MRB1,4212A,,,2018003701
+265,MRB1,4208D,,,2018003701
+266,MRB1,CR4200,,,2018003701
+267,MRB1,4208A,,,2018003701
+268,MRB1,4208E,,,2018003701
+269,MRB1,4204C,,,2018003701
+270,MRB1,4204D,,,2018003701
+271,MRB1,4204,,,2018003701
+272,MRB1,4212,,,2018003701
+273,MRB1,4218,,,2018003701
+274,MRB1,4204B,,,2018003701
+275,MRB1,4213B,,,2018003701
+276,MRB1,4212B,,,2018003701
+277,MRB1,4205A,,,2018003701
+278,MRB1,4205D,,,2018003701
+279,MRB1,4208B,,,2018003701
+280,MRB1,4208C,,,2018003701
+281,Greenhouse 12,Plant growth room,,,2019002101
+282,Genomics Building,"3229A, B, C, 3227, 3225",Biosafety Cabinet,2/12/2016,2019002101
+283,Genomics,"1237, 1231 to 1235",Biosafety Cabinet,9/17/2018,20190030
+284,chemical sciences,345,biosafety cabinet,9/19/2019,20190029
+285,Genomics,2112C,,,20170032
+286,Insectary adn Quarantine,GH275,,,20170032
+287,Genomics,2108B,,,20170032
+288,Genomics Building,2126,,,20170032
+289,Genomics Building,2108,,,20170032
+290,Genomics Building,2108A,,,20170032
+291,Genomics Building,2112B,,,20170032
+292,Genomics Building,2110,,,20170032
+293,Greenhouse,14-4,,,20170032
+294,Headhouse,"9, Plant growth chamber",,,20170032
+295,Headhouse 8,"8, Plant growth chamber",,,20170032
+296,LSP,0452,"Biosafety Cabinet Class II, Type A2",10/26/2016,2016007401
+297,LSP,0434,Fume hood,6/22/2016,2016007401
+298,LSP,"0418C, 0418D",animal housing and behavioral testing AUP#: A20170021,11/13/2016,2016007401
+299,MRB,"1229B-E, 1235, 1231, 1231A","animal housing and behavioral testing, biopsy, genotyping imaging, electrophysiology AUP#: 20170021",11/13/2016,2016007401
+300,MRB,1239,"Surgeries, animal protocol AUP#: 20170021 Biosafety Cabinet Class II, Type A2, certification will be performed after installation in the MRB",11/13/2016,2016007401
+301,MRB,"1229, CR1200A, CR1200","Hallways, animal and tissue transportation AUP#: 20170021",11/13/2016,2016007401
+302,Boyce Hall,"3470, 3454, 3460",,,20180049
+303,Plant Transformation Research Center,S. Campus Dr. Headhouse No. 2,"laminar flow hoods, autoclaves",9/20/2017,20180049
+304,Vivarium Biology,Vivarum Biology,,,2019000401
+305,Genomics Building,2124,Biological Safety Cabinet,9/2/2009,2019000401
+306,Genomics Building,2124,,,2019000401
+307,Genomics Building,2120,,,2019000401
+308,Genomics Building,2124,Biological Safety Cabinet,7/13/2015,2019000401
+309,MRB1,3213-A,BSC,3/4/2019,2019000401
+310,MRB1,3213-D,BSC,7/1/2018,2019000401
+311,MRB1,3209,,,2019000401
+312,MRB1,3229,Autoclave,3/4/2019,2019000401
+313,MRB1,3213-B,,,2019000401
+314,MRB1,3213-C,,,2019000401
+315,MRB1,3209-G,,,2019000401
+316,"Material Sceince &Engineering,","MSE268,273,279,283,154,158",Biosafety cabinet,6/19/2015,20180040
+317,"Material Sceince &Engineering,","MSE268,273,279,283,154,158",Biosafety cabinet,5/25/2018,20180040
+318,Batchelor Hall,2116/2130/2136,,,20180028
+319,Batchelor Hall,4115,,,20180028
+320,Mist House 1,1,,,20180028
+321,Greenhouse 19,C,,,20180028
+322,Greenhouse 19,B,,,20180028
+323,Boyce,4413,biosafety cabinet,5/30/2015,20180032
+324,Psychology,V3,,,20180032
+325,MSE,269 and 279,Biosafety Cabinets in MSE 279,6/1/2016,20170017
+326,Bourns,B 360A,Biosafety Cabinet,9/29/2015,20170017
+327,Keen Hall Stem Cell Core,Rm# A1018,Biosafety Cabinet,7/1/2015,20170017
+328,MSE,279,Biosafety Cabinet,6/5/2017,20170017
+329,Bourns,B 360A,Biosafety Cabinet,6/5/2017,20170017
+330,Keen Hall Stem Cell Core,Rm# A1018,Biosafety Cabinet,6/8/2017,20170017
+331,MSE,269,,,20170017
+332,Psychology vivarium V3,"1422, 1421, 1416",,,20190035
+333,SOM RB,130,,,20190035
+334,SOM RB,110A (animal holding),,,20190035
+335,SOM RB,116C (tissue culture),two biosafety cabinets,10/22/2018,20190035
+336,Genomics,1219,BSL-1 open bench,9/4/2018,20180041
+337,Genomics,1227,designated bench for radioactive material,11/16/2018,20180041
+338,Genomics,1227A,"microscope, RT-PCR machine, incubators",11/16/2018,20180041
+339,Boyce,Cage (1st floor),"one plant growth chamber (50%, shared with Caroline Roper), citrus",6/7/2018,20180041
+340,Genomics,1225,"biosafety cabinet; plant growth racks (Arabidopsis, Nicotiana benthamiana, soybean)",2/7/2018,20180041
+341,headhouse 17,109,plant growth room (Nicotiana benthamiana),11/16/2018,20180041
+342,Genomics,1221,"one plant growth chamber (Arabidopsis, citrus)",11/16/2018,20180041
+343,Genomics,2126,,,20170026
+344,Genomics,2118,,,20170026
+345,Genomics,2116,Fume Hood - certified annually by EH&S,3/31/2016,20170026
+346,Genomics,2211B,Biosafety Cabinet - we have spoken with Dr. Adler Dillman (Nematology) and he has given us permission to use this for our needs as necessary.,5/31/2017,20170026
+347,Plant Transformation Facility,Headhouse 2,,,20180021
+348,Headhouse 17,Room 109,,,20180021
+349,Greenhouse 12,GH12A,,,20180021
+350,Greenhouse 11,"GH11A,B,C",,,20180021
+351,Greenhouse 11,Room 884,"Clean Bench Heraguard ECO, plant growth chamber, 2 25oC incubators",5/18/2018,20180021
+352,Boyce Hall,"3413, 3413B, 3461, 3457","Biosafety class II cabinet, plant growth incubators, bacterial and pathogen incubators, -80 oC freezer, -20oC freeze, and 4 oC refrigerator",9/20/2017,20180021
+353,Boyce Hall,4481,"Fume hood, Chemicals",2/21/2014,20170011
+354,Boyce Hall,4447,,,20170011
+355,Boyce Hall,4413,,,20170011
+356,Boyce Hall,4451,Fume hood - Chemicals,2/21/2014,20170011
+357,Boyce Hall,4471,,,20170011
+358,Boyce Hall,4467,Fume hood - radioactive waste,2/21/2014,20170011
+359,Boyce Hall,4461,,,20170011
+360,Boyce Hall,4477,Biosafety Cabinets - Cell culture,3/7/2017,20170011
+361,Boyce Hall,4457,Biosafety Cabinet - Cell culture,3/7/2017,20170011
+362,LSP,vivarium,Biosafety cabinet,6/1/2017,20180008
+363,BSB,"2226, 2227, 2230",Biosafety cabinet,6/1/2017,20180008
+364,Spieth,"1348, 1349",Biosafety cabinet in Spieth 1348,8/21/2018,20180039
+365,SOM,342,,,20190028
+366,SOM,341,,,20190028
+367,SOM,333,,,20190028
+368,SOM,241,,,20190028
+369,SOM,233,,,20190028
+370,SOMRB,314,"2- Biological Safety Cabinets, Class II, Type A2",4/25/2019,20190028
+371,SOMRB,310C,Fume Hood Safety Cabinet,6/7/2019,20190028
+372,SOMRB,310 Lab 2,Main Lab Bench Space and Equipment,5/2/2019,20190028
+373,SOMRB,310B,"-80C, -20C, N2(l) tank, plus other minor equipment",5/2/2019,20190028
+374,Spieth Vivarium,359,,,20190028
+375,SOMRB FACS RM,233,,,20190028
+376,SOMRB MICROSCOPY,241,,,20190028
+377,SOMRB Nordgren Lab,230,,,20190028
+378,SOMRB DiPatrizio Lab,210,,,20190028
+379,SOMRB Autoclave,341,,,20190028
+380,Psychology Vivarium (SPF),1419,,,20190028
+381,Entomology Museum,211,,,20170047
+382,Entomology,141,Biological Safety Cabinet,4/25/2017,20170047
+383,Stem cell core facility (Keen Hall),B,biosafety cabinet,6/8/2017,20170022
+384,MSE,279A,Biosafety cabinet,6/9/2017,20170022
+385,MSE,269,,,20170022
+386,Boyce Hall,5452,biosafety cabinets,2/26/2015,20190020
+387,Boyce Hall,5412,,,20190020
+388,Boyce Hall,5460,,,20190020
+389,Boyce Hall,5478,,,20190020
+390,CAF,,,,20190020
+391,Campbell Hall,"102, 103, 201",,,20190020
+392,Boyce Hall,5456 (cold room),,,20190020
+393,PTRC,Headhouse 2,,,20190020
+394,Green house 14E,14E,,,20190007
+395,Webber,3220,,,20190007
+396,Batchelor Hall,"3128, 3212, 3216",Standard laboratory bench facilities and temperature-controlled growth rooms operated with standard microbiological practices.,4/11/2002,20170019
+397,UCR Plant Transformation Research Center,Greenhouse Headhouse 2,Laboratory bench facilities and several controlled environment rooms for growth of transformed plants,7/1/2007,20170019
+398,Biological Sciences,2202,Mott Fume Hood,4/25/2014,20180009
+399,Biological Sciences Building,2202,Mott Fume Hood,8/11/2017,20180009
+400,Batchelor Hall,"1107, 1113, 1113A, 1123",,,20190037
+401,Batchelor Hall,2211B,,,20190037
+402,Batchelor Hall,"1117, 3167",,,20190037
+403,Spieth Vivarium,359a,,,2018005301
+404,Keen Hall,1005-1018; 2003-2023,,,2018005301
+405,Webber,12351252125421402101,,,2018005301
+406,LSP,"418, 434, 438",,,2018005301
+407,SOM Research Building,241233330341,,,2018005301
+408,Psychology vivarium,140814141406141614211422,"Biosafety cabinet in 1408 and 1421. Zika virus will only be handled in the biosafety cabinet in 1406 (BSL2 procedure room) and Zika infected mice will be housed in the BSL2 vivarium room (1408). For Zika virus infected mice, mice will be dissected in the vivarium and only tissue transported to the lab",6/5/2018,2018005301
+409,SOM Research building,332,2 biosafety cabinets. This will be the only location in the SOM Research building where live Zika virus will be handled.,4/24/2018,2018005301
+410,MRB,"3223,3205A/E, 3rd fl benches",Biosafety cabinets in 3205A moved from SOMRB 332,4/24/2018,2018005301
+411,Head house no. 2,102,"Biozard container, Spill control station, cancer hazard cabinet, radioative material container for P32, four laminar hoods, and fume hood.",9/8/2008,20170037
+412,Head house no. 2,102,,,20170037
+413,Head House No. 2,102,,,20170037
+414,"Head House 2, GH2A, GH2B",Room 102 to 111,,,20170037
+415,School of Medicine Research Building,318,biosafety cabinet,12/10/2015,20180055
+416,School of Medicine Research Building,336,biosafety cabinet,12/15/2015,20180055
+417,School of Medicine Research Building,330,Cryopreservatioon Liquid Nitrogen Dewar,12/18/2015,20180055
+418,Psychology vivarium,V3,,,20180055
+419,Boyce Hall,"5413, 5421, 5427, 5437","Laboratory, BSL-1, incubator/orbital shaker Biosafety cabinet",7/31/2017,20170042
+420,Webber Hall,3220,Yes,2/1/2014,20180002
+421,Webber Hall,3278,Cold room nad X-ray processing equipment,2/1/2014,20180002
+422,Genomics,3126,,,20170012
+423,Genomics,3120B,,,20170012
+424,Genomics,3120B,,,20170012
+425,Agricultural Operations (AgOps),,,,20170012
+426,Greenhouse #18,C,,,20170012
+427,Genomics Building,2237,,,2018000401
+428,Genomics Building,2227,,,2018000401
+429,Genomics Building,2223,,,2018000401
+430,Genomics Building,2223A,,,2018000401
+431,Genomics Building,2225,,,2018000401
+432,Genomics Building,2210A,,,2018000401
+433,Genomics Building,2210B,,,2018000401
+434,Insectary and Quarantine,153,,,2018000401
+435,Insectary and Quarantine,154,,,2018000401
+436,AgOps Greenhouse GH16-56,C,,,2018000401
+437,LSP,"411, 434",,,20190014
+438,LSP,"411, 434, 455",,,20190015
+439,New Entomology Building,"329,332, 334",Biosafety cabinets,9/18/2015,20190013
+440,New Entomology Building,3133153263313333353403,,,20190013
+441,New Entomology Building,313315326331333335340,,,20190013
+442,New Entomology Building,313315326329331-335340,,,20190013
+443,New Entomology Building,313315326329331-335340,Biosafety cabinets,7/11/2018,20190013
+444,Biological Sciences Building,1215,Chemical fume hood,1/1/2001,20170021
+445,Biological Sciences Building,1230,Chemical fume hood,4/25/2014,20170021
+446,Biological Sciences Building,1217,Biosafety cabinet,3/2/2016,20170021
+447,Headhouse 10,Headhouse 10,,,20180001
+448,Spieth Hall,2234,,,20180001
+449,Headhouse 8,Headhouse 8,Walk-in growth Chamber,10/28/2011,20180001
+450,Headhouse 15 - Nematode Quaratine Facility,Headhouse 15,The entire facility is completely contained under APHIS and State certification and permits,6/17/2011,20180001
+451,MSE,279,"biosafety cabinet, incubator",6/2/2016,20170013
+452,MSE,272,,,20170013
+453,Bourns,B354,,,20170013
+454,Greenhouse 2B,1,BSL2 Greenhouse with limited access.,9/8/2008,2018005401
+455,Batchelor Hall,"4103, 4123, 4129, 4135, 4139",Biosafety cabinet (Class II A/B3) in room 4123.,7/13/2018,2018005401
+456,Headhouse 2-Plant Transformation Research Facility,1,,,2018005401
+457,Boyce Hall,3413B,Biosafety cabinet,3/1/2017,2018001901
+458,Boyce Hall,3417,Biosafety cabinet,3/1/2017,2018001901
+459,Boyce Hall,3467,Biosafety cabinet,3/1/2017,2018001901
+460,Boyce Hall,"10C, 13B, 18B, 19B",,,2018001901
+461,Boyce Hall,"5412, 5414, 5418",Clean Bench,10/25/2019,20190043
+462,Science Lab 1,307,,,20190036
+463,Science Lab 1,304B,,9/23/2019,20190036
+464,Psychology Building,Vivarium,,,2018001401
+465,Spieth Hall,Vivarium,,,2018001401
+466,Biological Sciences Building,1225,,,2018001401
+467,Noel Keen Hall,2002 FACS room,,,2018001401
+468,Biological Sciences Building,2229,,,2018001401
+469,Biological Sciences Building,2215,,,2018001401
+470,Biological Sciences Building,2220,,,2018001401
+471,Biological Sciences Building,2226,,,2018001401
+472,Biological Sciences Building,2231,,,2018001401
+473,Biological Sciences Building,2223,,,2018001401
+474,Biological Sciences Building,CR2200C,,,2018001401
+475,Biological Sciences Building,2227,Nuaire Class II type 2,5/15/2018,2018001401
+476,Noel Keen Hall,Stem Cell Core,Biosafety cabinets as oversee by Stem Cell Core.,2/17/2012,2018001401
+477,Biological Sciences Building,2227,Forma Class II A/B3 (currently not using),3/28/2016,2018001401
+478,iological Sciences Building,2205,Nuaire Class II type 2,5/15/2018,2018001401
+479,MRB1,4204A TC FMS,,,2018001401
+480,MRB1,4205E TC viral shared,,,2018001401
+481,MRB1,4208D TC small,,,2018001401
+482,MRB1,4212A bacterial,,,2018001401
+483,MRB1,4212D Mol Biol,,,2018001401
+484,MRB1,4212B clean PCR,,,2018001401
+485,MRB1,4205A mouse prep,,,2018001401
+486,MRB1,4214 mouse prep,,,2018001401
+487,MRB1,4216 mouse prep,,,2018001401
+488,MRB1,4208 open lab,,,2018001401
+489,MRB1,4212 storage corridor,,,2018001401
+490,MRB1,4204 storage corridor,,,2018001401
+491,MRB1,4208C Histology,,,2018001401
+492,MRB1,4212E chem Media,,,2018001401
+493,MRB1,4213B dark room,,,2018001401
+494,MRB1,4208A cold room,,,2018001401
+495,MRB1,CR4200 equipment corridor,,,2018001401
+496,MRB1,CR4200B sm equip corridor,,,2018001401
+497,MRB1,4204E microscopy,,,2018001401
+498,MRB1,4204F TC shared,,,2018001401
+499,MRB1,4229 Glasswash and autoclave,,,2018001401
+500,Boyce Hall,5413,,,20170029
+501,Boyce Hall,5471,"Fume Hood, Chemical Cabinet",12/22/2014,20170029
+502,Greenhouse,1B,,,20170009
+503,Greenhouse,2 (PTRC transgenic greenhouse),,,20170009
+504,Growth Chamber Facility 3,Growth chambers 301 and 302,,,20170009
+505,Arabidopsis Growth Facilities,MH3,,,20170009
+506,Genomics,"3211, 3213, 3221, 3219B, 3239",,,20170009
+507,Spieth,"2317, 2305, 2304",2 Biosafety cabinets,7/31/2017,20180012
+508,Batchelor/Keen,Stem Cell Core Facility,Biosafty cabinets,7/31/2017,20180012
+509,Webber Hall,2343,,9/14/2018,20190008
+510,Boyce,"2407, 2407A, 2425, 2429",2407A-Biosefty Cabinet,9/14/2018,20190008
+511,Boyce Hall,"2409, 2421, 2447, 2449",2409-Biosafety Cabinet,9/14/2018,20190008
+512,Boyce Hall,"2413, 2415, 2461",,,20190008
+513,Green house,"7C, 8A, 16-9",,,20190008
+514,Rubidoux Citrus Quarantine Facilities (CCPP),,,,20190008
+515,Plant Transformation Center,,,,20190008
+516,Science Laboratories 1,309; 309A; 309B,,,2018002501
+517,Science Laboratories 1,304B; 304C,Shared biological safety cabinet is located in Science Labs 304B; shared CO2 incubator is located in Science Labs 304C,4/21/2017,2018002501
+518,Science Laboratories 1,304A,Additional shared biological safety cabinet,7/29/2019,2018002501
+519,MSE,276,,,20180007
+520,Bourns Hall B,354,,,20180007
+521,Webber,"1257, 1260",2 biosafety cabinets in 1257,2/11/2014,20170043
+522,Genomics,3213A,,,20170018
+523,Genomcis,3223,,,20170018
+524,Growth Chamber Facility #1,#1,,,20170018
+525,Greenhouse 1C,1C,,,20170018
+526,Genomics,3229,,,20170018
+527,Insectary and Quarantine Facility,138,Room 138 is separated the main corridor by an entryway anteroom. This anteroom has a UV light to attract and kill flying insects. Room 138 will contain insect growth incubators for raising transgenic whiteflies. There will be a yellow sticky cards in room ; yellow is attractive to whiteflies and this will remove any escapees.,3/14/2017,20170018
+528,Insectary and Quarantine Facility,"352, 353 and 341","We will maintain B. tabaci Q (MED1)colonies in room 352; plants are maintained in bugdorms. We will perform B. tabaci Q infestations of alfalfa in room 353 plants are maintained in bugdorms. Once adults are removed from plants, infested alfalfa plants with immobile nymphs will be transferred to the adjacent quarantine greenhouse; plants are maintained in bugdorms. 341 is a laboratory. We will photograph infested leaves in this lab at the end of the experiment.",3/14/2017,20170018
+529,Chemical Sciences,347,,,20170014
+530,Chemical Sciences,341,,,20170014
+531,Chemical Sciences,339,,,20170014
+532,Chemical Sciences,349,,,20170014
+533,Chemical Sciences,345,Biosafety Cabinet,9/19/2016,20170014

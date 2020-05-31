@@ -1,0 +1,34 @@
+,Line,Cell Type,NIH Registry,Institution/Company,id,Institution/Clinician
+0,H1,embryonic,yes,,20190042,
+1,H9,embryonic,yes,,20190042,
+2,CV-B,iPSC,,,20190042,
+3,H1,human embryonic stem cell line,"Yes, WA01",,20190005,
+4,H9,human embryonic stem cell line,"Yes, WA09",,20190005,
+5,H7,human embryonic stem cell line,"Yes, WA07",,20190005,
+6,H14,human embryonic stem cell line,"Yes, WA14",,20190005,
+7,SA001,human embryonic stem cell line,"Yes, SA01",,20190005,
+8,SA003,human embryonic stem cell line,"Yes, SA03",,20190005,
+9,IMR90-4-MCB-1,human induced pluripotent stem cell line,,,20190005,
+10,foreskin-1-DL-1,human induced pluripotent stem cell line,,,20190005,
+11,human bone marrow mesenchymal stem cells,adult stem cell,,,20190005,
+12,Induced pluripotent Riv lines,"human fibroblast, induced",,,20190005,
+13,RIV9,human induced pluripotent stem cell line,,,20190005,ATCC
+14,RIV4,human induced pluripotent stem cell line,,,20190005,ATCC
+15,RIV1,human induced pluripotent stem cell line,,,20190005,ATCC
+16,WA09 (H9),"Human embryonic stem cells,",0062,,2018000302,
+17,WA01 (H1),"Human embryonic stem cells,",0043,,2018000302,
+18,RIV9,,iPSC,,2018000302,
+19,Y6,Female Teratoma derived iPSC via Sendai virus,iPSC,,2018000302,
+20,Shef6,"uman embryonic stem cells,",,Sheffield University UK,2018000302,
+21,H9,embryonic,,,2017003101,Unknown (obtained cells from Prue Talbot in accordance with the approved SCUA#20160003)
+22,Riv9,Induced pluripotent stem (iPS) cell derived from adult dermal fibroblasts,,,2017003101,Unknown (obtained cells from Prue Talbot in accordance with the approved SCUA#20160003)
+23,embryonic stem cells - H9 (some GFP positive); Riv9 induced pluripotent human cells (some GFP positive),"H9 embryonic, Riv9 adult fibroblast",yes,,20170017,Stem cell core
+24,Human neural stem cells,adult stem cells,,,20170017,
+25,Human neural stem cells,adult,,"Laboratory of Dr. Evan Y. Snyder Sanford Burnham Prebys Medical Discovery Institute, Center for Stem Cells & Regenerative Medicine Sanford Consortium for Regenerative Medicine 2880 Torrey Pines Scenic Drive, Room 2110-D, La Jolla, CA 92037 858-551-7641",20170017,
+26,Human Adipose derived stem cells,adult stem cell,,,20170017,"UCR School of Medicine, Dr. Raj Vyass"
+27,H1 (WA01),Embryonic stem cell line,0043 (NIHhESC-10-0043),WiCell Research Institute,20170011,
+28,HMSC-bm,mesenchymal stem cells-bone marrow,,,20170022,
+29,Human embryonic stem cell line WA09,embryonic,"yes, WA09",,20170022,
+30,Riv9,induced pluripotent stem cell,,,20170022,ATCC
+31,"H1, H7, H9",human embryonic stem cell,"yes WA01 (H1), WA07 (h7), WA09 (H9)",,20180012,
+32,"HUES10, HUES 11, HUES 12, HUES15",human embryonic stem cell,none are on NIH registry,,20180012,

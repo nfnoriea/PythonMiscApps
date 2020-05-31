@@ -1,0 +1,35 @@
+API for IBC Analyzer
+
+Classes
+------------------------
+LoadData (QDialog)
+MainGUI (QMainWindow)
+MainWindow (QWidget)
+InfoWidget(QWidget)
+PIndicators(QGroupBox)
+PInfo(QGroupBox)
+
+PHazIndicators(QGroupBox)
+
+AgentWidget
+AdministerWidget
+AnalyzerWidget
+
+
+
+Structure
+------------------------
+Main GUI - Calls a Menu Bar and Main Window
+
+MainWindow
+     1 - Info Widget
+     2 - Details Widget
+
+InfoWidget
+     1 - PInfo Widget (Basic Protocol Information)
+     2 - PIndicators Widget (Administration Indicators)
+     3 - PHazIndicators Widget (Hazard Indicators)
+
+DetailsWidget
+     1 - Agents Widget
+     2 - 

@@ -1,0 +1,81 @@
+,List of Agents,Host of Range of Agent,id
+0,brome mosaic virus,barley leaves,20190025
+1,Agrobacterium tumefaciens,broad range of dicots and monocots,20170016
+2,Agrobacterium rhizogenes,broad range of dicots,20170016
+3,Fusarium oxysporum,"Tomato, Arabidopsis thaliana, apple fruits",2017004401
+4,Agrobacterium,most dicot plants,20190039
+5,tobacco rattle virus,"tobacco, arabidopsis, soybean",20190039
+6,"Agrobacterium tumefaciens (GV3101; ""disarmed strain"")","Arabidopsis, broad variety of dicots",20190041
+7,Agrobacterium rhizogenes,"Isolated on Cucumis saliva, broad host range",20190041
+8,Xanthomonas axonopodis,broad host range across dicots,20190041
+9,Agrobacterium radiobacter,broad host range across dicots,20190041
+10,Sinorhizobium rhizogenes,broad host range across dicots,20190041
+11,"Cucumoviruses (Cucumber mosaic virus and tomato aspermy virus), citrus tristeza virus","cucumber, tomato, tobacco, citrus",20190017
+12,"turnip crinkle virus, turnip mosaic virus",Arabidopsis thaliana,20190017
+13,possible new viruses and viroids,citrus; tomato,20190017
+14,tomato yellow leaf curl virus,"Tomato, tobacco",20190017
+15,Agrobacterium tumefaciens,"Arabidopsis, other dicots",20190040
+16,Agrobacterium tumefaciens,"most dicot plants, including tomato and potato etc",20180051
+17,Hyaloperonospora arabidopsidis,Arabidopsis thaliana,20180020
+18,Agrobacterium tumefaciens,plants,20180020
+19,Pseudomonas syringe DC3000 pv tomato,"Arabidopsis, tomato",20180020
+20,Botrytis cinerea,plants,20180020
+21,Phytophthora cinnamonmi,avocado,20160080
+22,Rhizoctonia solani,"maize, rice, sugar beets",20160080
+23,Fusarium oxysporum,"tomato,",20160080
+24,Alternaria species,spinach,20160080
+25,Pseudomonas syringae,cabbage,20160080
+26,A. tumefaciens,extensive,2017002501
+27,Agrobacterium,both dicots and monocots,20190033
+28,"Botrytis cinerea, Pseudomonas syringae, Alternaria, Verticillium Dahliae, tobacco mosaic virus, P. infesting","Arabidopsis, tomato, potato, strawberry, lettuce, onion, rose, grape",2019002101
+29,"Phytophthora infestans, and other Phytophthora spp. (capsici, phaseoli, sojae cinnamomi)","vegetables, tubers, trees.",20190030
+30,Tobacco rattle virus,wide host range including species in Solanaceae,20170032
+31,Agrobacterium tumefaciens,wide host range,20170032
+32,Pseudomonas syringae,"wide, including tomato, Arabidopsis and Nicotiana benthamiana",20170032
+33,Pseudomonas fluorescens,wide host range,20170032
+34,Agrobacterium tumefaciens,"Arabidopsis thaliana, Zea mays",20180049
+35,Agrobacterium tumefaciens GL3101,plants,20180028
+36,Pseudomonas syringae,"soybean, Arabidopsis, Nicotiana benthamiana",20180041
+37,Agrobacterium tumefaciens,"Nicotiana benthamiana, Arabidopsis",20180041
+38,Phytophthora sojae,soybean,20180041
+39,Phytophthora capsici,"Arabidopsis, Nicotiana benthamiana",20180041
+40,Phytophthora infestans,"Nicotiana benthamiana, tomato",20180041
+41,Spiroplasma citri,citrus,20180041
+42,Phytophthora cinnamomi,Avocado and others,20180021
+43,Pseudomonas syringae pathovar tomato (PstDC3000),Tomato,20180021
+44,arbuscular mycorrhizal fungi (AMF) (Glomus sp.),"Avocado, potato, and tomato",20180021
+45,Phytophthora infestans,"Potato, tomato, tobacco",20180021
+46,Turnip Crinkle Virus (TCV),Arabidopsis thaliana and Nicotiana benthamiana,20180021
+47,Botrytis cinerea,"Tomato, grapes, Arabidopsis",20180021
+48,P. syringae pv tabaci 11528R,Tobacco,20180021
+49,Potato virus X (PVX)-GFP,"potato, tobacco",20180021
+50,Agrobacterium tumefaciens,"many plants (e.g. Arabidopsis, tobacco, tomato, rice, cowpea)",20190020
+51,Cucurbit yellow stunting disorder virus (CYSDV),"Natural hosts: Cucumber, melon, squash, watermelon Experimental/lab host: Nicotiana benthamiana",20190007
+52,Agrobacterium tumefaciens,dicotyledonous plant species,20170019
+53,Agrobacterium tumefaciens,most dicotyledonous plants,20190037
+54,Agrobacterium tumefaciens,"Arabidopsis, Citrus, Tomato, Tobacco, Rice.",20170037
+55,,"Canola, Potato",20170037
+56,,Leafy Spurge,20170037
+57,Brome mosaic virus,Barley and Chenapodium quinoa,20180002
+58,,NICOTIANA BENTHAMIANA,20180002
+59,Cucumber mosaic virus and its satellite RNA and Satellite tobacco mosaic virus,Nicotiana benthamiana,20180002
+60,"Agrobacterium tumefaciens. Strains include GV3101, EHA101 and C5C81. These are standard, disarmed, lab strains that have no potential to produce crown gall disease.",plants,20170012
+61,Macrophomina phaseolina,"numerous plant hosts, work focused on grain legumes",20180001
+62,Fusarium oxysporum (cotton and cowpea formae speciales),"cotton, cowpea",20180001
+63,Cucumber mosaic Virus,more than 100 host plants,20180001
+64,Apple latent spherical virus,more than 20 host plants,20180001
+65,"Meloidogyne incognita, M. javanica, M. hapla, M. arenaria, M. hispanica","more than 2000 host plants (work focused on grain legumes, cotton, carrot)",20180001
+66,Bean pod mottle virus,"pea, soybean, bean, cowpea",20180001
+67,Nacobbus aberrans,more than 100 host plants,20180001
+68,Citrus tristeza virus,Citrus and closely related genera,2018005401
+69,Candidatus Liberibacter psyllaurous (also called solanacearum),"potato, tomato, pepper, related species; Arabidopsis",2018005401
+70,Spiroplasm citri,"Citrus, other Aurantioidae, periwinkle, many Brassica, other species, several species of leafhopper.",2018005401
+71,Xylella fastidiosa,"grape, almond, oleander",2018001901
+72,Pantoea stewartii subsp. stewartii,"sweet corn, maize",2018001901
+73,Spiroplasma citri,citrus,2018001901
+74,Pseudomonas fluorescens,"broad host range including many plant species, but this is not a pathogen",2018001901
+75,Bradyrhizobium japonicum - These are symbiotic bacteria that enhance host growth (they are not harmful).,,20190043
+76,Agrobacterium tumefaciens,broad,20170009
+77,"All graft transmissible pathogens of citrus. Including viruses, viroids, spiroplasmas, phytoplasmas, bacteria, and fungi.",Citrus,20190008
+78,"All Plant pathogens (viruses, viroids, sprioplasmas, phytoplasmas, bacteria and fungi along with microbiome associated with plant hosts","Citrus, Avocado, cactus, Gourd and other plants",20190008
+79,Bemisia tabaci B (aka. B. tabaci biotype B; B. argentifolii; Middle East Asia Minor 1),Hundreds of host plants.,20170018
