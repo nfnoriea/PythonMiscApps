@@ -1,7 +1,7 @@
-#!/usr/bin/python3
 import random
 import smtplib
 import collections
+from email.mime.text import MIMEText
 
 
 class Person:
@@ -22,103 +22,76 @@ class Person:
 
 
 def createList():
-    p = []
-    p.append(Person("Dorothy", "nfnoriea@gmail.com"))
-    p.append(Person("Nicholas", "nfnoriea@gmail.com"))
-    p.append(Person("Nick Jr. i.e. The Nickenator", "nfnoriea@gmail.com"))
-    p.append(Person("Stephanie", "nfnoriea@gmail.com"))
-    p.append(Person("Jennifer", "nfnoriea@gmail.com"));
-    return p
-
-
-def match():
-    
-    # ppl = persons left that need to be picked to give a stocking
-    ppl = createList()
-    
-    matches = {}
-
-    # pleft = persons left that need to be picked to get a stocking
-    pleft = ppl.copy()
-
-    while(len(pleft) > 1):
-        
-        giver = ppl[random.randint(0, len(ppl)-1)]
-        
-        getter = pleft[random.randint(0, len(pleft)-1)]
-
-        if(giver.getName() == getter.getName()):
-            continue
-        else:
-            matches.update({giver.getName(): getter})
-            pleft.remove(getter)
-            ppl.remove(giver)
-    if(ppl[0].getName() == pleft[0].getName()):
-        return False
-    else:
-        matches.update({ppl[0].getName(): pleft[0]})
-        return matches
+    personList = []
+    personList.append(Person("Dorothy ('The Dottie')", "noriea@bellsouth.net"))
+    personList.append(Person("Nicholas ('The III')", "nfnoriea@gmail.com"))
+    personList.append(Person("Nick Jr. ('The Nickenator')", "noriea@bellsouth.net"))
+    personList.append(Person("Stephanie ('The Croaker')", "slnoriea@gmail.com"))
+    personList.append(Person("Jennifer ('The Tater')", "jennifernorieazhou@gmail.com"))
+    return personList
 
 
 def getMatches():
-
-    availableGivers = createList()
-    availableRecipients = availableGivers.copy()
     
-    # there is no guarantee that the last match to be picked isn't the same person
+    # there is no guarantee that the last match giver and recipient are different persons
     # so when there is only one match left, must check if that giver/recipient is the same person
-
-
+    # if so, repeat entire match process
+    # this can probably be refactored into a good selection algorithm if needed
     while(True):
+        availableGivers = createList()
+        availableRecipients = availableGivers.copy()
+        matches = {} # dictionary of person:person
 
-    matches = {} # dictionary of person:person
+        # loop continuously while there is still people who need to get a stocking
+        # create a match from list of people who haven't been picked to give a stocking
+        while(len(availableRecipients) > 1):
+            giver = availableGivers[random.randint(0,len(availableRecipients)-1)]
+            recipient = availableRecipients[random.randint(0,len(availableRecipients)-1)]
+            if(giver.getName() == recipient.getName()):
+                continue
+            else:
+                matches.update({giver: recipient})
+                availableRecipients.remove(recipient)
+                availableGivers.remove(giver)
+        
+        # when there is only 1 recipient left, check if last recipient and last giver are the same
+        if(availableGivers[0].getName() == availableRecipients[0].getName()):
+            continue
+        else:
+            matches.update({availableGivers[0]: availableRecipients[0]})
+            return matches
 
 
+def send_gmail(user, pwd, giver, recipient):
 
+    # Using MIMEText for html formatting rather than just text formatting
+    body = "<html><body>Ho ho ho! Your 2020 secret stocking recipent is: <p style=\"color:red;\"><b>" + recipient.getName() + "</b></p></body></html>"
 
-    while(True):
-        m = match()
-        if(isinstance(m, collections.Mapping)):
-            return m
-
-
-def send_gmail(user, pwd, recipient, subject, body):
-    FROM = user
-    TO = recipient if isinstance(recipient, list) else [recipient]
-    SUBJECT = subject
-    TEXT = body
-
-    message = """From: /%s\nTo: %s\nSubject: %s\n\n%s
-    """ % (FROM, ", ".join(TO), SUBJECT, TEXT)
+    myEmail = MIMEText(body, 'html')
+    myEmail["From"] = user
+    myEmail["To"] = recipient.getEmail()
+    myEmail["Subject"] = "Christmas Stocking Pick for " + giver.getName()
 
     try:
         server = smtplib.SMTP('smtp.gmail.com', 587)
+        server.set_debuglevel(1)
         server.ehlo()
         server.starttls()
         server.login(user, pwd)
-        server.sendmail(FROM, TO, message)
+        server.sendmail(user, giver.getEmail(), myEmail.as_string())
         server.close()
-        print("Successfully sent email.")
+        print("----------------  Successfully sent email.\n")
     except:
-        print("Failed to send email.")
+        print("----------------  Failed to send email.\n")
 
 
 if __name__ == '__main__':
-    p = createList()
     m = getMatches()
+
+    user = input("Enter Gmail:")
+    pwd = input("Enter Gmail Password:")
+
     for match in m:
         giver = match
-        getter = m[match]
-        giver_email = ""
-        i = 0
-        while(i < len(p)):
-            person = p[i]
-            if person.getName() == giver:
-                giver_email = person.getEmail()
-            i += 1
-        subject = "Christmas Stocking Pick for " + giver
-        body = "Ho ho ho! Your 2020 secret stocking recipent is:  <b>" + getter.getName() + "\n\n"
-        body += "This email was automatically sent with the Noriea Family Stocking List Maker created by N. Noriea\n\n"
-
-        send_gmail("nfnoriea", "",
-                   giver_email, subject, body)
+        recipient = m[match]
+        send_gmail(user, pwd, giver, recipient)
