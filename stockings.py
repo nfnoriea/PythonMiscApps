@@ -6,10 +6,9 @@ import collections
 
 class Person:
 
-    def __init__(self, name, email, link):
+    def __init__(self, name, email):
         self.name = name
         self.email = email
-        self.link = link
 
     def getName(self):
         return self.name
@@ -17,35 +16,37 @@ class Person:
     def getEmail(self):
         return self.email
 
-    def getLink(self):
-        return self.link
-
     def __str__(self):
         return ("Name: " + self.name + "\n" +
-                "Email: " + self.email + "\n" +
-                "Link: " + self.link + "\n")
+                "Email: " + self.email)
 
 
 def createList():
     p = []
-    p.append(Person("Dorothy", "noriea@bellsouth.net",
-                    "https://imgur.com/Wg568PC"))
-    p.append(Person("Nicholas", "nfnoriea@gmail.com",
-                    "https://imgur.com/8KkLxa5"))
-    p.append(Person("Nickenator", "noriea@bellsouth.net",
-                    "https://imgur.com/tRjCUuo"))
-    p.append(Person("Stephanie", "slnoriea@gmail.com",
-                    "https://imgur.com/g2MX228"))
+    p.append(Person("Dorothy", "nfnoriea@gmail.com"))
+    p.append(Person("Nicholas", "nfnoriea@gmail.com"))
+    p.append(Person("Nick Jr. i.e. The Nickenator", "nfnoriea@gmail.com"))
+    p.append(Person("Stephanie", "nfnoriea@gmail.com"))
+    p.append(Person("Jennifer", "nfnoriea@gmail.com"));
     return p
 
 
 def match():
+    
+    # ppl = persons left that need to be picked to give a stocking
     ppl = createList()
+    
     matches = {}
+
+    # pleft = persons left that need to be picked to get a stocking
     pleft = ppl.copy()
+
     while(len(pleft) > 1):
+        
         giver = ppl[random.randint(0, len(ppl)-1)]
+        
         getter = pleft[random.randint(0, len(pleft)-1)]
+
         if(giver.getName() == getter.getName()):
             continue
         else:
@@ -60,8 +61,22 @@ def match():
 
 
 def getMatches():
-    tryagain = True
-    while(tryagain):
+
+    availableGivers = createList()
+    availableRecipients = availableGivers.copy()
+    
+    # there is no guarantee that the last match to be picked isn't the same person
+    # so when there is only one match left, must check if that giver/recipient is the same person
+
+
+    while(True):
+
+    matches = {} # dictionary of person:person
+
+
+
+
+    while(True):
         m = match()
         if(isinstance(m, collections.Mapping)):
             return m
@@ -94,7 +109,6 @@ if __name__ == '__main__':
     for match in m:
         giver = match
         getter = m[match]
-        secret_link = getter.getLink()
         giver_email = ""
         i = 0
         while(i < len(p)):
@@ -103,8 +117,7 @@ if __name__ == '__main__':
                 giver_email = person.getEmail()
             i += 1
         subject = "Christmas Stocking Pick for " + giver
-        body = "Ho ho ho! Find out who your secret stocking recipent is here: \n"
-        body += secret_link + "\n\n"
+        body = "Ho ho ho! Your 2020 secret stocking recipent is:  <b>" + getter.getName() + "\n\n"
         body += "This email was automatically sent with the Noriea Family Stocking List Maker created by N. Noriea\n\n"
 
         send_gmail("nfnoriea", "",
